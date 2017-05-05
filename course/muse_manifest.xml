@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="courses.com" resolutions="1x" timestamp="1493818337488">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="a.co" resolutions="1x" timestamp="1493971546296">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3842730550" ref="index"/>
+    <file name="index.css" crc="3965151851" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,10 +12,10 @@
     <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="catagories complete page_4-5-01.jpg" crc="352471740" seo="true" ref="index">
+    <file name="catagories complete page_4-5-01.jpg" crc="4073136219" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="95460604" seo="true" mt="1493816585708" redirect="true"/>
+  <file name="index.html" crc="4113164714" seo="true" mt="1493971485878" redirect="true"/>
 </manifest>

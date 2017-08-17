@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="center.com" resolutions="1x" timestamp="1502958370306">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="center.com" resolutions="1x" timestamp="1502962268805">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4140824164" ref="index"/>
+    <file name="index.css" crc="4081513957" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,21 +13,20 @@
     <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
     <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
     <file name="touchswipe.js" crc="3912873526" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
     <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="contact centre banner v2.png" crc="3783781581" seo="true" ref="index">
+    <file name="contact centre banner v2.png" crc="4228540390" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u117-6.png" crc="4249511708" ref="index"/>
-    <file name="u323-6.png" crc="294344425" ref="index"/>
-    <file name="u127-6.png" crc="3910435176" ref="index"/>
-    <file name="u122-6.png" crc="3929032380" ref="index"/>
-    <file name="img 3-u110-a-fr.png" crc="4105525399" ref="index"/>
-    <file name="img 4-u216-a-fr.png" crc="328575618" ref="index"/>
-    <file name="img 1-u111-a-fr.png" crc="4216441823" ref="index"/>
-    <file name="img 2-u112-a-fr.png" crc="277140586" ref="index"/>
+    <file name="u117-6.png" crc="3784350168" ref="index"/>
+    <file name="u323-6.png" crc="4178893511" ref="index"/>
+    <file name="u122-6.png" crc="3807941739" ref="index"/>
+    <file name="img 3-u110-a-fr.png" crc="510025890" ref="index"/>
+    <file name="img 4-u216-a-fr.png" crc="297998693" ref="index"/>
+    <file name="img 1-u111-a-fr.png" crc="3989228686" ref="index"/>
+    <file name="img 2-u112-a-fr.png" crc="4141513119" ref="index"/>
+    <file name="u127-4.png" crc="3910568236" ref="index"/>
   </folder>
-  <file name="index.html" crc="4031947359" seo="true" mt="1502958151245" redirect="true"/>
+  <file name="index.html" crc="4058665445" seo="true" mt="1502962248160" redirect="true"/>
 </manifest>

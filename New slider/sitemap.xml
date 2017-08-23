@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://directors.com/index.html</loc>
+    <lastmod>2017-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://directors.com/images/img%20111.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://directors.com/images/img%20222.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://directors.com/images/img%20333.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://directors.com/images/img%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://directors.com/images/img%202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://directors.com/images/img%203.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://directors.com/assets/img11.png</loc>
+    <lastmod>2017-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

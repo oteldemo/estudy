@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="catalogue.com" resolutions="1x" timestamp="1503557053158">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="catalogue.com" resolutions="1x" timestamp="1503562878840">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="126611786" ref="index"/>
+    <file name="index.css" crc="62481951" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,10 +12,10 @@
     <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="catalogue.png" crc="3932823879" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="catalogue2.png" crc="4272175807" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="8610823" seo="true" mt="1503556668249" redirect="true"/>
+  <file name="index.html" crc="137950010" seo="true" mt="1503562821861" redirect="true"/>
 </manifest>

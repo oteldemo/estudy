@@ -1,0 +1,47 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="contact.com" resolutions="1x" timestamp="1506600405770">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4251290185" ref="index"/>
+    <file name="nomq_index.css" crc="388817377" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="contact centre banner v2.png" crc="3910341268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u127-4.png" crc="219003917" ref="index"/>
+    <file name="u234-4.png" crc="343345208" ref="index"/>
+    <file name="u246-4.png" crc="3829441769" ref="index"/>
+    <file name="u257-4.png" crc="93269064" ref="index"/>
+    <file name="img 1-u111-a-fr.png" crc="406734098" ref="index"/>
+    <file name="img 2-u230-a-fr.png" crc="143424392" ref="index"/>
+    <file name="img 3-u243-a-fr.png" crc="4155902705" ref="index"/>
+    <file name="img 4-u254-a-fr.png" crc="297998693" ref="index"/>
+    <file name="contact centre banner v2622x275.png" crc="3955071374" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u127-42.png" crc="4099043960" ref="index"/>
+    <file name="u234-42.png" crc="446198038" ref="index"/>
+    <file name="u246-42.png" crc="4135520680" ref="index"/>
+    <file name="u257-42.png" crc="369216997" ref="index"/>
+    <file name="img 1-u111-a-fr2.png" crc="472690098" ref="index"/>
+    <file name="img 2-u230-a-fr2.png" crc="303008091" ref="index"/>
+    <file name="img 3-u243-a-fr2.png" crc="4225810039" ref="index"/>
+    <file name="img 4-u254-a-fr2.png" crc="4253356167" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="56241388" seo="true" mt="1506600318077" redirect="true"/>
+</manifest>

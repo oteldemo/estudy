@@ -4725,34 +4725,34 @@ p.nominalBounds = new cjs.Rectangle(-151,-50.5,301.9,101.1);
 	// Layer 2
 	this.movieClip_1 = new lib.Symbol5copy2();
 	this.movieClip_1.parent = this;
-	this.movieClip_1.setTransform(225.9,204.7,0.401,0.846,0,0,0,0.4,0.5);
+	this.movieClip_1.setTransform(45.7,99.2,0.288,0.607,0,0,0,0.5,0.6);
 
 	this.instance = new lib.Symbol5copy();
 	this.instance.parent = this;
-	this.instance.setTransform(351.7,296.4,0.419,0.962);
+	this.instance.setTransform(136,165,0.301,0.69,0,0,0,0.1,0);
 
 	this.instance_1 = new lib.Symbol6copy();
 	this.instance_1.parent = this;
-	this.instance_1.setTransform(351.4,112.8,0.417,0.913,0,0,0,0.7,0.1);
+	this.instance_1.setTransform(135.7,33.3,0.299,0.655,0,0,0,0.8,0.3);
 	new cjs.ButtonHelper(this.instance_1, 0, 1, 1);
 
 	this.instance_2 = new lib.Symbol5_1();
 	this.instance_2.parent = this;
-	this.instance_2.setTransform(478.7,204,0.412,0.839,0,0,0,0.5,0.2);
+	this.instance_2.setTransform(227,98.7,0.296,0.602,0,0,0,0.5,0.3);
 
 	this.instance_3 = new lib.Symbol5();
 	this.instance_3.parent = this;
-	this.instance_3.setTransform(351.4,204.4,0.419,0.847,0,0,0,0.4,0.2);
+	this.instance_3.setTransform(135.7,99,0.301,0.607,0,0,0,0.5,0.3);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance},{t:this.movieClip_1}]}).wait(86));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(843.7,266.5,385.6,276.7);
+p.nominalBounds = new cjs.Rectangle(131.9,102,276.6,198.6);
 // library properties:
 lib.properties = {
 	id: '6921DC55CC200D43A0DE06F06CD80047',
-	width: 1377,
-	height: 400,
+	width: 274,
+	height: 204,
 	fps: 24,
 	color: "#FFFFFF",
 	opacity: 0.00,

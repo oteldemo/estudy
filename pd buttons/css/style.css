@@ -2,20 +2,21 @@
 /* corner values for bubble up and down */
 body::before {
 	display: none;
-	background-color: #FFFFFF
+	background-color: transparent
 		
 }
 .typ-subhed {
   font-family: 'Oswald', sans-serif;
   font-size: 12px;
   line-height: 20px;
+	font-weight: 50;
   letter-spacing: 0;
 }
 /* lets create a container and put it in the middle */
 .container {
   height: 100%;
   width: 100%;
-		background-color: #FFFFFF
+		background-color: transparent
 }
 .container > * {
   width: 100%;
@@ -28,13 +29,13 @@ body::before {
 .ctrl-standard.fx-bubbleDown::after {
   bottom: auto;
   border-radius: 0 0 $right-val2 $left-val2/0 0 $right-val1 $left-val1;
-  background: #f0b81f;
+  background: #ffffff;
 }
 .ctrl-standard.fx-bubbleDown.is-reversed::after {
   height: 300%;
 }
 .ctrl-standard.fx-bubbleDown.is-reversed:hover {
-  color: #f0b81f;
+  color: #ffffff;
 }
 .ctrl-standard.fx-bubbleDown.is-reversed:hover::after {
   height: 0;
@@ -60,25 +61,25 @@ body::before {
   height: 0;
 }
 .ctrl-standard.fx-sliderIn {
-  color: #81aaa4;
-  border-color: #81aaa4;
+  color: #ffffff;
+  border-color: #ffffff;
 }
 .ctrl-standard.fx-sliderIn::after {
-  background: #81aaa4;
+  background: #ffffff;
 }
 .ctrl-standard.fx-sliderIn.is-reversed::after {
   width: 300%;
 }
 .ctrl-standard.fx-sliderIn.is-reversed:hover {
-  color: #81aaa4;
+  color: #ffffff;
 }
 .ctrl-standard.fx-sliderIn.is-reversed:hover::after {
   width: 0;
 }
 [class*="ctrl-"] {
-  padding: 1px 2px;
-  border-radius: 2px;
-  border: 2px solid #FFFFFF;
+  padding: 0px 0px;
+  border-radius: 1px;
+  border: 1px solid #FFFFFF;
 }
 [class*="ctrl-"][class*="fx-"]:hover,
 [class*="ctrl-"][class*="fx-"].active {
@@ -86,6 +87,7 @@ body::before {
 }
 [class*="ctrl-"][class*="fx-"].is-reversed {
   color: #ffffff;
+		  background-color: #ffffff;
 }
 
   [class*="fx-"],
@@ -120,7 +122,8 @@ body::before {
     height: 300%;
   }
   [class*="fx-bubble"]:disabled:hover::after {
-    height: 0;
+    height: 0;	
+	  background-color: #ffffff;
   }
   .fx-sliderIn::after {
     transition: width 0.5s ease-in-out;

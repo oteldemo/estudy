@@ -10,7 +10,7 @@ body::before {
   font-size: 12px;
   line-height: 20px;
 	font-weight: 50;
-  letter-spacing: 0;
+  letter-spacing: 3;
 }
 /* lets create a container and put it in the middle */
 .container {
